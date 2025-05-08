@@ -1,0 +1,167 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.1">
+  <diagram name="第 1 页" id="ixrvzUOUnkx4ExZLwfC4">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rNz8BM7nKVpirbiBlt3C-1" value="日間暫托 / 職業活療" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rNz8BM7nKVpirbiBlt3C-2" value="臨床心理治療" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rNz8BM7nKVpirbiBlt3C-3" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNz8BM7nKVpirbiBlt3C-4" value="義工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNz8BM7nKVpirbiBlt3C-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rNz8BM7nKVpirbiBlt3C-4" target="rNz8BM7nKVpirbiBlt3C-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="320" as="sourcePoint" />
+            <mxPoint x="210" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNz8BM7nKVpirbiBlt3C-6" value="&lt;span style=&quot;line-height: 100%;&quot;&gt;&lt;font&gt;招募&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rNz8BM7nKVpirbiBlt3C-7" value="季刊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-1" value="訓練" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-2" value="服務" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-3" value="陪診配對&lt;br&gt;mainly 精神科" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.558;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9GAntfK8eGgA1kYnxHDn-2" target="9GAntfK8eGgA1kYnxHDn-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="324" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.45;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rNz8BM7nKVpirbiBlt3C-4" target="9GAntfK8eGgA1kYnxHDn-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="270" as="sourcePoint" />
+            <mxPoint x="290" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.583;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNz8BM7nKVpirbiBlt3C-4" target="9GAntfK8eGgA1kYnxHDn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-8" value="會員管理系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-9" value="服務申請" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-16" value="使用者介面/系統&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主版面&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-17" value="會員活動" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-18" value="房間使用管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-20" value="Active Cases&lt;div&gt;e.g 社工持續跟進個案&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-21" value="家屬" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-23" value="職員/admin 介面/系統&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主版面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="610" as="sourcePoint" />
+            <mxPoint x="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="610" as="sourcePoint" />
+            <mxPoint x="830" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-33" value="報名/&lt;div&gt;CURD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-36" value="中心地址、聯絡方法等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9GAntfK8eGgA1kYnxHDn-17" target="9GAntfK8eGgA1kYnxHDn-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="180" as="sourcePoint" />
+            <mxPoint x="110" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9GAntfK8eGgA1kYnxHDn-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-42" value="行政&lt;br&gt;系統管理員" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-43" value="活動工作員&lt;br&gt;朋輩輔導員" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-44" value="社工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-45" value="臨床心理學家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-46" value="職業治療師" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-47" value="護士" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="160" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-48" value="有關會員之私隱&lt;div&gt;restricted address&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="534.5" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-49" value="會員管理系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-50" value="活動日曆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-53" value="HKID&lt;div&gt;住址&lt;/div&gt;&lt;div&gt;白卡 or not&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="534.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-54" value="申請各種資助" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="9GAntfK8eGgA1kYnxHDn-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="820" as="sourcePoint" />
+            <mxPoint x="520" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-57" value="製作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-58" value="發放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9GAntfK8eGgA1kYnxHDn-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9GAntfK8eGgA1kYnxHDn-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="820" as="sourcePoint" />
+            <mxPoint x="400" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
